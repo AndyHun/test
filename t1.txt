@@ -2,3 +2,4 @@ Change fist line
 Add a new line
 new line for third line
 Modify third line from test folder
+Add new line from branch issue1
