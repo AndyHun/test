@@ -1,4 +1,3 @@
 test
 new line from test folder
 dddddd
-aaa
